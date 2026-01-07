@@ -1,0 +1,7 @@
+{
+  "name": "Magic Click v2",
+  "description": "Professional image analysis and universal prompt generation tool for ChatGPT, Gemini, and Grok. Converts visual information into precise, structured prompt frameworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
